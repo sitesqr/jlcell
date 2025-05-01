@@ -448,7 +448,8 @@ background-position: center center;
      float: left;
      position: relative;
      padding-top: 11px;
-     width: 7em;
+     width: 12em;
+     display: flex;
 }
 
 
@@ -1632,7 +1633,7 @@ font-weight: 500;
 .banner-main .carousel-caption .buynow  {
 text-transform: uppercase;
 border: #fff solid 1px;
-background: #fff;
+background: #000000;
 width: 196px;
 padding: 12px 0;
 display: inline-block;
@@ -2119,10 +2120,10 @@ ul.location_icon span {
 #myCarousel .carousel-control-next {
      width: 62px;
      height: 60px;
-     background: #fffdfd;
-     opacity: 1;
+     background: #000000;
+     opacity: 70%;
      font-size: 30px;
-     color: #000;
+     color: #ffffff;
 }
 
 #myCarousel .carousel-control-prev:hover,

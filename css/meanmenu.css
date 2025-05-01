@@ -4,15 +4,15 @@ a.meanmenu-reveal {
      display: none;
 }
 
-.mean-container .mean-bar {
-     background: #f00;
+/*.mean-container .mean-bar {
+     background: rgb(0, 0, 0);
      float: left;
      min-height: 40px;
      padding: 5px 0;
      position: relative;
      width: 100%;
      z-index: 999;
-}
+}*/
 
 .mean-container a.meanmenu-reveal {
      color: #fff;
